@@ -15,9 +15,9 @@
             <BuildableReference
                BuildableIdentifier = "primary"
                BlueprintIdentifier = "C3C333651F66A7F900F6C492"
-               BuildableName = "ShopifyTestBis.app"
-               BlueprintName = "ShopifyTestBis"
-               ReferencedContainer = "container:ShopifyTestBis.xcodeproj">
+               BuildableName = "ShopifyCustomerFinder.app"
+               BlueprintName = "ShopifyCustomerFinder"
+               ReferencedContainer = "container:ShopifyCustomerFinder.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -33,9 +33,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C3C333651F66A7F900F6C492"
-            BuildableName = "ShopifyTestBis.app"
-            BlueprintName = "ShopifyTestBis"
-            ReferencedContainer = "container:ShopifyTestBis.xcodeproj">
+            BuildableName = "ShopifyCustomerFinder.app"
+            BlueprintName = "ShopifyCustomerFinder"
+            ReferencedContainer = "container:ShopifyCustomerFinder.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -56,9 +56,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C3C333651F66A7F900F6C492"
-            BuildableName = "ShopifyTestBis.app"
-            BlueprintName = "ShopifyTestBis"
-            ReferencedContainer = "container:ShopifyTestBis.xcodeproj">
+            BuildableName = "ShopifyCustomerFinder.app"
+            BlueprintName = "ShopifyCustomerFinder"
+            ReferencedContainer = "container:ShopifyCustomerFinder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -75,9 +75,9 @@
          <BuildableReference
             BuildableIdentifier = "primary"
             BlueprintIdentifier = "C3C333651F66A7F900F6C492"
-            BuildableName = "ShopifyTestBis.app"
-            BlueprintName = "ShopifyTestBis"
-            ReferencedContainer = "container:ShopifyTestBis.xcodeproj">
+            BuildableName = "ShopifyCustomerFinder.app"
+            BlueprintName = "ShopifyCustomerFinder"
+            ReferencedContainer = "container:ShopifyCustomerFinder.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
