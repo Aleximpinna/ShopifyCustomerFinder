@@ -50,8 +50,8 @@ class ViewController: UIViewController {
             
             var awesomeBronzeBags = 0
             
-            let firstNameSearched = firstNameTextField.text
-            let lastNameSearched = lastNameTextField.text
+            let firstNameSearched = firstNameTextField.text?.capitalized
+            let lastNameSearched = lastNameTextField.text?.capitalized
             
             if let orders = json?["orders"] {
 
@@ -93,6 +93,8 @@ class ViewController: UIViewController {
                         // Je cherche les keys d'identifications
                         let first_name = customer["first_name"] as? String
                         let last_name = customer["last_name"] as? String
+                        
+                        
                     
                         
                         // Si la key "first_name" et "last_name" correspondent
