@@ -12,6 +12,7 @@
 		C3C3336F1F66A7F900F6C492 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3C3336D1F66A7F900F6C492 /* Main.storyboard */; };
 		C3C333711F66A7F900F6C492 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C3C333701F66A7F900F6C492 /* Assets.xcassets */; };
 		C3C333741F66A7F900F6C492 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C3C333721F66A7F900F6C492 /* LaunchScreen.storyboard */; };
+		C3C3337C1F66A80300F6C492 /* orders.json in Resources */ = {isa = PBXBuildFile; fileRef = C3C3337B1F66A80300F6C492 /* orders.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C3C333701F66A7F900F6C492 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C3C333731F66A7F900F6C492 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C3C333751F66A7F900F6C492 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C3C3337B1F66A80300F6C492 /* orders.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = orders.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -54,6 +56,7 @@
 		C3C333681F66A7F900F6C492 /* ShopifyTestBis */ = {
 			isa = PBXGroup;
 			children = (
+				C3C3337B1F66A80300F6C492 /* orders.json */,
 				C3C333691F66A7F900F6C492 /* AppDelegate.swift */,
 				C3C3336B1F66A7F900F6C492 /* ViewController.swift */,
 				C3C3336D1F66A7F900F6C492 /* Main.storyboard */,
@@ -126,6 +129,7 @@
 			files = (
 				C3C333741F66A7F900F6C492 /* LaunchScreen.storyboard in Resources */,
 				C3C333711F66A7F900F6C492 /* Assets.xcassets in Resources */,
+				C3C3337C1F66A80300F6C492 /* orders.json in Resources */,
 				C3C3336F1F66A7F900F6C492 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -302,6 +306,7 @@
 				C3C3337A1F66A7F900F6C492 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
