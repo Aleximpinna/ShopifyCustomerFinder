@@ -8,7 +8,7 @@ The answer is...
 42. 
 No it's not, I'm kidding it's **200.06$**. Just see for yourself.
 
-![Beautiful Screenshot][screenshot.png]
+![Beautiful Screenshot](screenshot.png "Beautiful screenshot, wow really beautiful")
 
 The Second question is also answered in this beautiful application made with Xcode and developped entirely in Swift.
 
